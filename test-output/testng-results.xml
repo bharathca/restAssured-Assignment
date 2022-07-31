@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="7" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-31T22:44:49 CEST" name="Suite" finished-at="2022-07-31T22:44:51 CEST" duration-ms="2220">
+    <groups>
+    </groups>
+    <test started-at="2022-07-31T22:44:49 CEST" name="Test" finished-at="2022-07-31T22:44:51 CEST" duration-ms="2220">
+      <class name="tests.rest.TC003_SearchComments">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:tests.rest.TC003_SearchComments@72f926e6]" started-at="2022-07-31T22:44:49 CEST" name="setValues" finished-at="2022-07-31T22:44:49 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="startTheTestCase()[pri:0, instance:tests.rest.TC003_SearchComments@72f926e6]" started-at="2022-07-31T22:44:51 CEST" name="startTheTestCase" finished-at="2022-07-31T22:44:51 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTheTestCase -->
+        <test-method is-config="true" signature="startTheTestModule()[pri:0, instance:tests.rest.TC003_SearchComments@72f926e6]" started-at="2022-07-31T22:44:51 CEST" name="startTheTestModule" finished-at="2022-07-31T22:44:51 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTheTestModule -->
+        <test-method signature="searchUserPostsComments()[pri:0, instance:tests.rest.TC003_SearchComments@72f926e6]" started-at="2022-07-31T22:44:51 CEST" name="searchUserPostsComments" finished-at="2022-07-31T22:44:51 CEST" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchUserPostsComments -->
+      </class> <!-- tests.rest.TC003_SearchComments -->
+      <class name="tests.rest.TC001_SearchUser">
+        <test-method is-config="true" signature="startTheReport()[pri:0, instance:tests.rest.TC001_SearchUser@4ac3c60d]" started-at="2022-07-31T22:44:49 CEST" name="startTheReport" finished-at="2022-07-31T22:44:49 CEST" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTheReport -->
+        <test-method is-config="true" signature="setValues()[pri:0, instance:tests.rest.TC001_SearchUser@4ac3c60d]" started-at="2022-07-31T22:44:49 CEST" name="setValues" finished-at="2022-07-31T22:44:49 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="startTheTestCase()[pri:0, instance:tests.rest.TC001_SearchUser@4ac3c60d]" started-at="2022-07-31T22:44:49 CEST" name="startTheTestCase" finished-at="2022-07-31T22:44:49 CEST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTheTestCase -->
+        <test-method is-config="true" signature="startTheTestModule()[pri:0, instance:tests.rest.TC001_SearchUser@4ac3c60d]" started-at="2022-07-31T22:44:49 CEST" name="startTheTestModule" finished-at="2022-07-31T22:44:50 CEST" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTheTestModule -->
+        <test-method signature="searchUser()[pri:0, instance:tests.rest.TC001_SearchUser@4ac3c60d]" started-at="2022-07-31T22:44:50 CEST" name="searchUser" finished-at="2022-07-31T22:44:51 CEST" duration-ms="1474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchUser -->
+        <test-method is-config="true" signature="stopTheReport()[pri:0, instance:tests.rest.TC001_SearchUser@4ac3c60d]" started-at="2022-07-31T22:44:51 CEST" name="stopTheReport" finished-at="2022-07-31T22:44:52 CEST" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTheReport -->
+      </class> <!-- tests.rest.TC001_SearchUser -->
+      <class name="tests.rest.TC002_SearchPosts">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:tests.rest.TC002_SearchPosts@39529185]" started-at="2022-07-31T22:44:49 CEST" name="setValues" finished-at="2022-07-31T22:44:49 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="startTheTestCase()[pri:0, instance:tests.rest.TC002_SearchPosts@39529185]" started-at="2022-07-31T22:44:51 CEST" name="startTheTestCase" finished-at="2022-07-31T22:44:51 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTheTestCase -->
+        <test-method is-config="true" signature="startTheTestModule()[pri:0, instance:tests.rest.TC002_SearchPosts@39529185]" started-at="2022-07-31T22:44:51 CEST" name="startTheTestModule" finished-at="2022-07-31T22:44:51 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTheTestModule -->
+        <test-method signature="searchUserPosts()[pri:0, instance:tests.rest.TC002_SearchPosts@39529185]" started-at="2022-07-31T22:44:51 CEST" name="searchUserPosts" finished-at="2022-07-31T22:44:51 CEST" duration-ms="259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchUserPosts -->
+      </class> <!-- tests.rest.TC002_SearchPosts -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
